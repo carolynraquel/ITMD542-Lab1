@@ -74,7 +74,6 @@ h1 {
 
 .specular {
     mix-blend-mode: color-dodge;
-    background-attachment: fixed;
     animation: holographic-scroll 8s linear infinite;
 }
 
